@@ -1,0 +1,13 @@
+x=True
+print(x)
+print(type(x))
+print(x+10)
+print(False+10)
+print('----------------')
+print(bool(18))#测试18的布尔值
+print(bool(0),bool(0.0))
+#总结，非0的整数的布尔值都是true
+print(bool('北京欢迎您'))
+#所以非空字符串的布尔值都是true
+print(bool(False))
+print(bool(None))

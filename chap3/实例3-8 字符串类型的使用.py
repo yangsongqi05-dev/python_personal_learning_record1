@@ -1,0 +1,10 @@
+city='昆明'
+address='昆明市五华区'
+print(city)
+print(address)
+#多行字符串
+info='''昆明市五华区
+     收件人：罗志祥
+     手机号：111111111
+'''
+print(info)

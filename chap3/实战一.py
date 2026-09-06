@@ -1,0 +1,11 @@
+num=eval(input('请输入一个四位整数：'))
+print('个位上的数：',num%10)
+print('十位位上的数：',num//10%10)
+print('百位位上的数：',num//100%10)
+print('千位位上的数：',num//1000)
+
+print('-'*10)
+num=input('请输入一个四位的整数：')
+print('个位上的数：',num[3])
+print('十位上的数：',num[2])
+print('百位上的数：',num[1])
