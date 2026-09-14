@@ -1,0 +1,35 @@
+# ===== PyCharm =====
+.idea/
+*.iml
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# ===== 虚拟环境 =====
+venv/
+env/
+.venv/
+ENV/
+
+# ===== 测试与覆盖率 =====
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ===== 操作系统 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== 其他 =====
+*.log
+*.tmp
+report.txt
