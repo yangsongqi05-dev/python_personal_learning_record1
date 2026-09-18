@@ -29,7 +29,12 @@ htmlcov/
 Thumbs.db
 desktop.ini
 
-# ===== 其他 =====
+# ===== 练习脚本运行时生成的文件（非源码，不入库）=====
+node.txt
+text.txt
+report.txt
+
+# ===== 其他临时文件 =====
 *.log
 *.tmp
-report.txt
+*.bak
