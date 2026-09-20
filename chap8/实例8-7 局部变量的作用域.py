@@ -1,4 +1,4 @@
-from unittest import removeResult
+
 
 
 def calc(a,b):

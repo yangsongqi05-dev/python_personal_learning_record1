@@ -1,4 +1,3 @@
-from chap5.小结_学生成绩管理器 import students
 
 
 def calc(a,b):
